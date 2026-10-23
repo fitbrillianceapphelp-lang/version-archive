@@ -1,0 +1,159 @@
+# Robots.txt for Fit Brilliance Ecosystem
+# Optimized for Google Search Indexing & AI Crawlers
+
+# Default Rules - Allow Everything
+User-agent: *
+Allow: /
+Allow: *.js
+Allow: *.css
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
+Allow: *.webp
+Allow: *.woff
+Allow: *.woff2
+Allow: *.ttf
+Allow: /ai-catalog.json
+Allow: /.well-known/
+Allow: /.well-known/*
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/admin
+Disallow: /api/admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /.env
+Disallow: /.env.local
+Disallow: /.env.example
+Disallow: /node_modules/
+Disallow: /.git/
+Crawl-delay: 1
+
+# Google Search Bot - Explicit Allow for Assets & Indexing
+User-agent: Googlebot
+Allow: /
+Allow: *.js
+Allow: *.css
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
+Allow: *.webp
+Allow: *.woff
+Allow: *.woff2
+Allow: *.ttf
+Allow: /sitemap.xml
+Allow: /robots.txt
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/admin
+Disallow: /api/admin/
+Disallow: /private/
+Crawl-delay: 0.5
+
+# Google Search Console & Analytics Bots
+User-agent: Google-Extended
+Allow: /
+Allow: *.js
+Allow: *.css
+Allow: /llms.txt
+Allow: /llms-full.txt
+Disallow: /admin
+
+# Google AdsBot
+User-agent: AdsBot-Google
+Allow: /
+Allow: *.js
+Allow: *.css
+Disallow: /admin
+
+# Google Site Verification
+User-agent: Google
+Allow: /
+
+# Generative AI Crawlers - Allow Content
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: *.js
+Allow: *.css
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Applebot-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Bing Bot - Allow Full Access
+User-agent: Bingbot
+Allow: /
+Allow: *.js
+Allow: *.css
+Disallow: /admin
+
+# Other Major Search Engines
+User-agent: Slurp
+Allow: /
+Disallow: /admin
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /admin
+
+User-agent: Teoma
+Allow: /
+Disallow: /admin
+
+# Social Media Crawlers - Allow for Preview Cards
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Telegram
+Allow: /
+
+# Disable Aggressive Bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# Sitemap & Resources
+Sitemap: https://fitbrilliance.store/sitemap.xml
+Sitemap: https://fitbrilliance.store/sitemap-en.xml
+
+# Rate limiting for all crawlers
+Request-rate: 1 request per 1 second

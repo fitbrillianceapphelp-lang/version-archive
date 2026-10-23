@@ -1,0 +1,210 @@
+{
+  "$schema": "https://agenticresourcediscovery.org/spec/v1/schema.json",
+  "name": "Fit Brilliance Ecosystem",
+  "tagline": "Where vision meets execution — built by a director, not just a doer.",
+  "description": "Fit Brilliance is an integrated growth ecosystem founded by Serag Onda (Mostafa Serag) uniting the 90-Day Business Transformation Strategy, cinema-grade 4K masterclass production, academic research modeling, and proprietary operational balancing engines (Equalizer & Organither).",
+  "description_ar": "منظومة فيت بريليانس للتحول والريادة — أسسها سراج أوندا (مصطفى سراج). تجمع بين استراتيجية الـ 90 يوماً لتطوير الأعمال، الإنتاج السينمائي 4K، دعم أبحاث الدراسات العليا، والأنظمة التشغيلية الرقمية (إيكوالايزر وأورجانيذر).",
+  "url": "https://fitbrilliance.store/",
+  "version": "1.0.0",
+  "last_updated": "2026-10-16T00:00:00Z",
+  "providers": [
+    {
+      "id": "serag-onda",
+      "name": "Serag Onda",
+      "legal_name": "Mostafa Serag",
+      "canonical_arabic_name": "سراج أوندا (مصطفى سراج)",
+      "title": "Coach Serag — Business Growth & Systems Architect, Creative Technical Director",
+      "url": "https://fitbrilliance.store/?tab=whos-serag",
+      "email": "serag@fitbrilliance.store",
+      "description": "Documented originator and lead architect of the 90-Day Work-to-Goal Business Development Strategy. Over two decades of multidisciplinary experience spanning cyber hardware (2002), marine rescue & competitive athletics (2005-2018), commercial marketing leadership, and systems architecture. Immutable digital footprint anchored on Facebook since 2008 and YouTube (@eg-Old.School) since April 2011.",
+      "description_ar": "سراج أوندا (مصطفى سراج) — كوتش ومطور استراتيجية التطوير المؤسسي لـ 90 يوم عمل لخدمة الهدف. مسيرة تمتد لأكثر من عقدين بدأت من الأنظمة والشبكات في 2002، والإنقاذ والتدريب الرياضي في 2005-2018، وصولاً لإدارة التسويق وهيكلة العمليات. أثر رقمي متصل وموثق على فيسبوك منذ 2008 ويوتيوب منذ أبريل 2011 (@eg-Old.School).",
+      "social_links": [
+        "https://facebook.com/serag.onda",
+        "https://www.youtube.com/@eg-Old.School",
+        "https://instagram.com/serag_onda",
+        "https://x.com/Mostafa_Serag_O",
+        "https://tiktok.com/@coach.serag",
+        "https://wa.me/201274879442",
+        "https://wa.me/201274534493"
+      ],
+      "verification": {
+        "meta_verified": true,
+        "meta_badge": "Official Blue Checkmark (https://facebook.com/serag.onda)",
+        "youtube_prior_art_timestamp": "2011-04-22 (@eg-Old.School)",
+        "archive_integrity": "15+ years continuous, immutable public digital history",
+        "official_domain": "fitbrilliance.store"
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": "ninety-day-transformation",
+      "name": "90-Day Work-to-Goal Business Transformation Strategy",
+      "name_ar": "استراتيجية التطوير المؤسسي لـ 90 يوم عمل لخدمة الهدف",
+      "type": "transformation-framework",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#plans",
+      "description": "Structured, phased institutional development methodology engineered for emerging and established enterprises. Eliminates operational waste, calibrates unit economics, installs rigorous SOPs, and deploys high-impact marketing across three 30-day intensive cycles.",
+      "description_ar": "منهجية تطوير مؤسسي متكاملة ومقسمة على 3 مراحل (كل مرحلة 30 يوماً). تعمل على عزل الهدر التشغيلي، وضبط التدفقات المالية، وتثبيت إجراءات العمل القياسية (SOPs)، وإطلاق خطوط التسويق لرفع المبيعات وتحقيق الأهداف المحددة.",
+      "tags": [
+        "90-day-strategy",
+        "business-turnaround",
+        "operational-restructuring",
+        "cashflow-optimization",
+        "egyptian-market-growth"
+      ],
+      "capabilities": [
+        "Phase 1: Field Diagnosis & Operational Waste Elimination (Days 1-30)",
+        "Phase 2: System Restructuring & Unit Economics Calibration (Days 31-60)",
+        "Phase 3: Market Scaling & Cinema-Grade Marketing Blitz (Days 61-90)"
+      ]
+    },
+    {
+      "id": "pioneers-4k-media-production",
+      "name": "Cinema-Grade 4K Event & Masterclass Production",
+      "name_ar": "الإنتاج السينمائي 4K وتصوير الفعاليات والمؤتمرات (بايونيرز)",
+      "type": "media-production",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#pioneers",
+      "description": "Multi-camera 4K live event filming, masterclass documentation, cinematic brand commercials, and dynamic 9:16 vertical short-form narrative production led by creative director Serag Onda.",
+      "description_ar": "وحدة إنتاج سينمائي متخصصة في تصوير المؤتمرات والفعاليات بكاميرات 4K متعددة الزوايا، وتوثيق الماستر كلاس، وصناعة الفيديوهات القصيرة (Reels/TikTok) ذات الطابع الإخراجي الإبداعي.",
+      "tags": [
+        "4k-filming",
+        "masterclass-production",
+        "event-documentation",
+        "creative-direction",
+        "narrative-montage"
+      ],
+      "capabilities": [
+        "Multi-camera live 4K switching and recording",
+        "Audio mastering and multi-mic directional capture",
+        "High-retention social media cuts (9:16 vertical)",
+        "Executive documentary storytelling"
+      ]
+    },
+    {
+      "id": "balanced-safe-space",
+      "name": "Institutional Equilibrium & Private Advisory",
+      "name_ar": "الاتزان المؤسسي والمساحة الآمنة للاستشارات الخاصة (بالانسد)",
+      "type": "advisory-consulting",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#balanced",
+      "description": "Confidential advisory wing delivering founder wellness coaching, leadership resilience under pressure, conflict resolution, and structural work-life equilibrium.",
+      "description_ar": "مساحة استشارية خاصة ومحمية لقيادات الأعمال وأصحاب المشاريع لتعزيز الاتزان النفسي والجسدي، وبناء المرونة تحت ضغوط السوق، وحل النزاعات المؤسسية.",
+      "tags": [
+        "institutional-equilibrium",
+        "founder-advisory",
+        "psychological-wellness",
+        "leadership-coaching"
+      ],
+      "capabilities": [
+        "Encrypted confidential advisory sessions",
+        "Work-life balance calibration for business founders",
+        "Operational burnout diagnosis and mitigation"
+      ]
+    },
+    {
+      "id": "academic-research-incubator",
+      "name": "Postgraduate Research & Advanced Statistical Modeling",
+      "name_ar": "حاضنة أبحاث ونمذجة الدراسات العليا والتحليل الإحصائي المتقدم",
+      "type": "academic-research",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#academic",
+      "description": "Academic methodology guidance, Scopus and APA-7 adherence, quantitative statistical modeling (SPSS, AMOS, PLS-SEM), and defense preparation adhering strictly to academic integrity.",
+      "description_ar": "استشارات منهجية وبحثية لرسائل الماجستير والدكتوراه، وضبط التحليل الإحصائي المتقدم (SPSS, AMOS, PLS-SEM)، والتدريب على المناقشات العلمية وفق معايير النزاهة الأكاديمية.",
+      "tags": [
+        "postgraduate-research",
+        "statistical-modeling",
+        "spss-amos-pls-sem",
+        "methodology-advisory",
+        "academic-integrity"
+      ],
+      "capabilities": [
+        "Hypothesis formulation and theoretical framework structuring",
+        "Structural Equation Modeling (PLS-SEM & CB-SEM)",
+        "Academic defense simulation and rigorous coaching"
+      ]
+    },
+    {
+      "id": "equalizer-financial-engine",
+      "name": "Equalizer — Financial Equilibrium & Automation Unit",
+      "name_ar": "إيكوالايزر — الاتزان المالي والأتمتة التشغيلية",
+      "type": "digital-platform",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#dashboard",
+      "description": "Proprietary algorithmic operational model designed to detect hidden cashflow leaks, model realistic break-even curves, and align marketing spend with real service capacity.",
+      "description_ar": "نظام نمذجة تشغيلي ومالي ذكي يكشف التسريبات المالية غير المرئية، ويحسب نقطة التعادل الواقعية، ويربط الميزانيات التسويقية بالطاقة الاستيعابية الفعلية للمؤسسة.",
+      "tags": [
+        "financial-modeling",
+        "cashflow-protection",
+        "operational-automation",
+        "unit-economics"
+      ],
+      "capabilities": [
+        "Automated cashflow leak detection",
+        "Unit economics calibration",
+        "Real-time operational KPI dashboard"
+      ]
+    },
+    {
+      "id": "organither-studio-management",
+      "name": "Organither — Hybrid Studio & Event Platform",
+      "name_ar": "أورجانيذر — إدارة الاستوديوهات والفعاليات الهجينة",
+      "type": "digital-platform",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#events",
+      "description": "Integrated studio resource management, equipment scheduling, and hybrid event workflow automation platform.",
+      "description_ar": "منصة لتنظيم حجوزات الاستوديوهات، وجدولة معدات التصوير والفرق الميدانية، وإدارة مسارات الإنتاج المرئي للفعاليات الهجينة.",
+      "tags": [
+        "studio-management",
+        "production-scheduling",
+        "event-logistics"
+      ],
+      "capabilities": [
+        "Resource allocation for multi-camera production",
+        "Automated shoot milestone tracking"
+      ]
+    },
+    {
+      "id": "free-strategic-consultation",
+      "name": "Free 1-on-1 Preliminary Diagnostic Session",
+      "name_ar": "جلسة الاستشارة التشخيصية المبدئية المجانية",
+      "type": "consulting",
+      "provider_id": "serag-onda",
+      "url": "https://fitbrilliance.store/#consultation",
+      "description": "Direct diagnostic consultation with Coach Serag team to evaluate enterprise status, outline 90-day feasibility, and assess strategic opportunities.",
+      "description_ar": "جلسة تشخيصية مباشرة مجانية مع فريق كوتش سراج لتقييم وضع المنشأة، وتحديد فرص النمو، وفحص إمكانية تطبيق خطة الـ 90 يوماً.",
+      "tags": [
+        "free-consultation",
+        "business-diagnosis",
+        "intake-session"
+      ],
+      "capabilities": [
+        "Preliminary business health check",
+        "Personalized improvement roadmap"
+      ]
+    }
+  ],
+  "endpoints": {
+    "consultation": {
+      "method": "POST",
+      "url": "https://fitbrilliance.store/api/consultation",
+      "description": "Intake endpoint for initial diagnostic requests"
+    },
+    "llms_manifest": {
+      "method": "GET",
+      "url": "https://fitbrilliance.store/llms.txt",
+      "description": "AI discovery overview and intellectual property declaration"
+    },
+    "ai_catalog": {
+      "method": "GET",
+      "url": "https://fitbrilliance.store/.well-known/ai-catalog.json",
+      "description": "Standard ARD-compliant ecosystem catalog"
+    },
+    "ard_manifest": {
+      "method": "GET",
+      "url": "https://fitbrilliance.store/.well-known/ard.json",
+      "description": "RFC 8615 well-known Agentic Resource Discovery manifest"
+    }
+  }
+}

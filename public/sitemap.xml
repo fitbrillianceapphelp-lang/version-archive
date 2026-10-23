@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- 1. الرئيسية — الأولوية القصوى -->
+  <url>
+    <loc>https://fitbrilliance.store/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. مصفوفة تشريح المشاريع (استبيان الـ 99 سؤالاً) -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=diagnostic-99</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- 3. باقات وخطط التطوير والتحول لـ 90 يوماً -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=plans</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 4. طلب الاستشارة الميدانية والتشخيص المجاني -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=consultation</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 5. آراء وتقييمات العملاء وشهادات الإنجاز -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=reviews</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 6. مركز التواصل الموحد والقنوات المباشرة -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=contact</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- 7. طلبات الانضمام لفريق العمل الميداني -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=team-apply</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 8. هوية عائلة القيادة والتوجيه -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=family-identity</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 9. رواد الميديا والإنتاج السينمائي 4K -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=pioneers</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 10. بريليانس المتزنة — المساحة الآمنة والدعم المتزن -->
+  <url>
+    <loc>https://fitbrilliance.store/?tab=balanced</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

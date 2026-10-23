@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Pioneers Brilliance Ecosystem",
+  "name_for_model": "pioneers_brilliance",
+  "description_for_human": "Business transformation, 90-day execution plans, and institutional turnaround by Coach Serag, Ms. Maria (FitBrilliance) and Coach Serag (Balanced Brilliance).",
+  "description_for_model": "Search and retrieve structured consulting information, 90-day strategic plans, team applications, and direct WhatsApp contact channels for Pioneers Brilliance.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://fitbrilliance.store/sitemap.xml"
+  },
+  "logo_url": "https://fitbrilliance.store/assets/logo/fitbrilliance_todo4u_logo.png",
+  "contact_email": "support@fitbrilliance.store",
+  "legal_info_url": "https://fitbrilliance.store/#terms"
+}

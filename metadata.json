@@ -1,0 +1,7 @@
+{
+  "name": "Fit Brilliance",
+  "description": "منظومة Fit Brilliance للتحول المؤسسي والمهني والإنتاج السينمائي والاستشارات الاستراتيجية برعاية كوتش سراج",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
